@@ -75,11 +75,11 @@ namespace WindowsFormsApp1
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(310, 144);
+            this.label1.Location = new System.Drawing.Point(288, 144);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(80, 16);
+            this.label1.Size = new System.Drawing.Size(89, 16);
             this.label1.TabIndex = 5;
-            this.label1.Text = "UserName1";
+            this.label1.Text = "UserNameT1";
             this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // Form1
